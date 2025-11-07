@@ -1,0 +1,24 @@
+lab04/
+├── include/
+│   ├── Point.h
+│   ├── Figure.h
+│   ├── Pentagon.h
+│   ├── Hexagon.h
+│   ├── Octagon.h
+│   └── Array.h
+├── src/
+│   ├── main.cpp
+│   ├── Point.cpp
+│   ├── Figure.cpp
+│   ├── Pentagon.cpp
+│   ├── Hexagon.cpp
+│   ├── Octagon.cpp
+│   └── Array.cpp
+├── tests/
+│   ├── test_main.cpp
+│   ├── test_point.cpp
+│   ├── test_figures.cpp
+│   ├── test_array.cpp
+│   └── CMakeLists.txt
+├── CMakeLists.txt
+└── README.md
